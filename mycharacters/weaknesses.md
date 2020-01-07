@@ -1,2 +1,2 @@
-# Weaknesses
+# Weakness
 

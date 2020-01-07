@@ -1,2 +1,2 @@
-# Powers
+# Strength
 
