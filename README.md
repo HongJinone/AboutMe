@@ -9,7 +9,7 @@ description: 1.All of webpages are made to describe who I am.
 **Contents**
 
 * [Times](mytimes.md)
-* [Hobbies](myhobbies/)
+* [Hobbies](myhobbies.md)
 * [Characters](mycharacters/)
 * [Items](myitems/)
 * [Mind](mymind.md)

@@ -2,9 +2,7 @@
 
 * [Initial page](README.md)
 * [Times](mytimes.md)
-* [Hobbies](myhobbies/README.md)
-  * [TeamProject\_Chorus](myhobbies/teamproject_chorus.md)
-  * [Project\_VRGame](myhobbies/project_vrgame.md)
+* [Hobbies](myhobbies.md)
 * [Characters](mycharacters/README.md)
   * [Powers](mycharacters/powers.md)
   * [Weaknesses](mycharacters/weaknesses.md)
