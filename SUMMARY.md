@@ -7,6 +7,7 @@
   * [Strength](mycharacters/powers.md)
   * [Weakness](mycharacters/weaknesses.md)
 * [Items\(ing\)](myitems/README.md)
+  * [Game](myitems/game.md)
   * [Voice](myitems/voice.md)
   * [Bicycles](myitems/bicycles.md)
   * [Diary](myitems/diary.md)
