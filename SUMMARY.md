@@ -11,5 +11,5 @@
   * [Bicycles](myitems/bicycles.md)
   * [Diary](myitems/diary.md)
   * [Languages](myitems/languages.md)
-* [MoreInfo\(ing\)](moreinfo.md)
+* [MoreInfo](moreinfo.md)
 
