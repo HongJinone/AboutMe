@@ -2,7 +2,7 @@
 
 * [Initial page](README.md)
 * [Times](mytimes.md)
-* [Hobbies](myhobbies.md)
+* [Challenges](myhobbies.md)
 * [Characters\(ing\)](mycharacters/README.md)
   * [Powers](mycharacters/powers.md)
   * [Weaknesses](mycharacters/weaknesses.md)

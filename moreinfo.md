@@ -4,7 +4,7 @@
 
 이런 분들을 위해 아래 이메일 주소를 남깁니다.
 
-hongjinone@naver.com
+     hongjinone@naver.com
 
 ※ 인천 미추홀구 무슨무슨 체육관, 평일 저녁 7시에 찾아오신다면 함께 운동하실 수 있습니다.
 
