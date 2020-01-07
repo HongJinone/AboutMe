@@ -12,7 +12,7 @@ description: 1.All of webpages are made to describe who I am.
 * [Hobbies](myhobbies.md)
 * [Characters](mycharacters/)
 * [Items](myitems/)
-* [Mind](mymind.md)
+* [Mind]()
 * [MoreInfo](moreinfo.md)
 
 ## 시작하기에 앞서...

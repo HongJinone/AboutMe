@@ -1,6 +1,4 @@
-# MoreInfo
+# MoreInfo\(ing\)
 
-영상 주소
-
-
+이메일 주소 : hongjinone@naver.com
 
