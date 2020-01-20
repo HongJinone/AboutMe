@@ -9,7 +9,7 @@ description: 1. 모든 페이지는 홍진원 군이 누구인지 묘사하기 �
 **Contents**
 
 * [Times](mytimes.md)
-* [Challenges](myhobbies.md)
+* [Challenges](challenges.md)
 * [Characters](mycharacters/)
 * [Items](myitems/)
 * [MoreInfo](moreinfo.md)
@@ -17,7 +17,7 @@ description: 1. 모든 페이지는 홍진원 군이 누구인지 묘사하기 �
 ## 시작하기에 앞서...
 
 {% hint style="info" %}
-AboutMe 페이지의 목표는 홍진원 군 얼만큼 효과적으로 설계할 수 있는가입니다.
+AboutMe 페이지의 목표는 홍진원 군을 효과적으로 묘하는 데에 있습니다.
 
 이 페이지는 하이퍼텍스트 도움말의 형식을 취하고 있습니다. 
 {% endhint %}
@@ -28,7 +28,7 @@ AboutMe 페이지의 목표는 홍진원 군 얼만큼 효과적으로 설계할
 
 
 
-### [Challenges](myhobbies.md)
+### [Challenges](challenges.md)
 
 이 사람이 해 왔던 도전들을 간단히 살펴봅니다. 
 
