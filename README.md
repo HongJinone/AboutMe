@@ -4,13 +4,12 @@ description: 1. 모든 페이지는 홍진원 군이 누구인지 묘사하기 �
 
 # Initial page
 
-                                                                                                                            You are in \[About Me\] &gt; [\[Initial Page\]](./)
+                                                                                You are in \[About Me\] &gt; [\[Initial Page\]](./)
 
 **Contents**
 
 * [Times](mytimes.md)
 * [Challenges](challenges.md)
-* [Characters](mycharacters/)
 * [Items](myitems/)
 * [MoreInfo](moreinfo.md)
 
@@ -31,12 +30,6 @@ AboutMe 페이지의 목표는 홍진원 군을 효과적으로 묘하는 데에
 ### [Challenges](challenges.md)
 
 이 사람이 해 왔던 도전들을 간단히 살펴봅니다. 
-
-
-
-### [Characters](mycharacters/)
-
-이 사람의 머릿속을 조금이나마 이해해 봅니다.
 
 
 
